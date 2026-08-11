@@ -1,0 +1,20 @@
+year_2015,industry,nova_scotia_wage_2015,canada_wage_2015,market_gap_pct_2015,year_2025,nova_scotia_wage_2025,canada_wage_2025,market_gap_pct_2025,ns_growth_pct,canada_growth_pct,growth_difference
+2015,"Total employees, all industries",20.43,24.04,-15.02,2025,29.8,33.65,-11.44,45.86,39.98,5.88
+2015,Goods-producing sector,20.23,25.0,-19.08,2025,28.5,34.36,-17.05,40.88,37.44,3.44
+2015,"Agriculture [111-112, 1100, 1151-1152]",14.0,15.38,-8.97,2025,20.0,24.14,-17.15,42.86,56.96,-14.1
+2015,"Forestry, fishing, mining, quarrying, oil and gas [21, 113-114, 1153, 2100]",22.63,36.0,-37.14,2025,25.0,47.0,-46.81,10.47,30.56,-20.09
+2015,Utilities [22],30.0,39.0,-23.08,2025,45.05,53.37,-15.59,50.17,36.85,13.32
+2015,Construction [23],20.0,27.0,-25.93,2025,28.21,36.0,-21.64,41.05,33.33,7.72
+2015,Manufacturing [31-33],20.0,22.56,-11.35,2025,28.0,31.0,-9.68,40.0,37.41,2.59
+2015,Services-producing sector,20.44,24.0,-14.83,2025,30.0,33.33,-9.99,46.77,38.87,7.9
+2015,"Wholesale and retail trade [41, 44-45]",15.0,18.1,-17.13,2025,22.0,25.0,-12.0,46.67,38.12,8.55
+2015,Transportation and warehousing [48-49],23.0,24.0,-4.17,2025,28.85,30.46,-5.29,25.43,26.92,-1.49
+2015,"Finance, insurance, real estate, rental and leasing [52-53]",22.05,26.67,-17.32,2025,32.05,38.46,-16.67,45.35,44.21,1.14
+2015,"Professional, scientific and technical services [54]",23.08,29.81,-22.58,2025,38.46,43.27,-11.12,66.64,45.15,21.49
+2015,"Business, building and other support services [55-56]",14.0,16.59,-15.61,2025,21.0,25.0,-16.0,50.0,50.69,-0.69
+2015,Educational services [61],29.0,32.97,-12.04,2025,39.42,41.76,-5.6,35.93,26.66,9.27
+2015,Health care and social assistance [62],22.0,23.74,-7.33,2025,32.0,30.85,3.73,45.45,29.95,15.5
+2015,"Information, culture and recreation [51, 71]",21.63,25.0,-13.48,2025,29.0,34.19,-15.18,34.07,36.76,-2.69
+2015,Accommodation and food services [72],12.0,13.5,-11.11,2025,18.0,20.0,-10.0,50.0,48.15,1.85
+2015,Other services (except public administration) [81],17.0,20.0,-15.0,2025,27.0,28.57,-5.5,58.82,42.85,15.97
+2015,Public administration [91],31.79,34.63,-8.2,2025,41.21,44.71,-7.83,29.63,29.11,0.52

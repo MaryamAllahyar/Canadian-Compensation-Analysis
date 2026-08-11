@@ -1,0 +1,15 @@
+noc_code,Occupation,ns_wage_2015,canada_wage_2015,ns_wage_2025,canada_wage_2025,ns_growth_pct,canada_growth_pct,growth_difference
+111,Professional occupations in finance,26.68,32.19,36.2,43.0,35.68,33.58,2.1
+112,Professional occupations in business,26.92,32.69,40.64,41.41,50.97,26.67,24.3
+211,Professional occupations in natural sciences,33.33,35.9,40.85,44.87,22.56,24.99,-2.43
+212,Professional occupations in applied sciences (except engineering),33.65,36.41,46.04,50.48,36.82,38.64,-1.82
+213,Professional occupations in engineering,38.05,41.21,48.06,52.0,26.31,26.18,0.13
+311,Health treating and consultation services professionals,38.84,41.42,52.5,51.0,35.17,23.13,12.04
+312,Therapy and assessment professionals,34.0,37.0,46.63,49.0,37.15,32.43,4.72
+313,Nursing and allied health professionals,36.0,37.38,48.0,46.0,33.33,23.06,10.27
+411,Professional occupations in law,36.06,48.08,74.52,62.5,106.66,29.99,76.67
+412,Professional occupations in education services,34.07,37.02,43.27,47.84,27.0,29.23,-2.23
+413,Professional occupations in social and community services,31.25,30.0,36.06,40.0,15.39,33.33,-17.94
+414,Professional occupations in government services,33.0,35.38,43.94,46.15,33.15,30.44,2.71
+421,Occupations in front-line public protection services,39.0,40.87,48.08,50.42,23.28,23.37,-0.09
+422,"Paraprofessional occupations in legal, social, community and education services",17.5,20.0,27.0,26.92,54.29,34.6,19.69

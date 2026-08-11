@@ -1,0 +1,15 @@
+noc_code,Occupation,nova_scotia_wage,canada_wage,market_gap_pct,market_position
+111,Professional occupations in finance,36.2,43.0,-15.81,Below Market
+112,Professional occupations in business,40.64,41.41,-1.86,Near Market
+211,Professional occupations in natural sciences,40.85,44.87,-8.96,Below Market
+212,Professional occupations in applied sciences (except engineering),46.04,50.48,-8.8,Below Market
+213,Professional occupations in engineering,48.06,52.0,-7.58,Below Market
+311,Health treating and consultation services professionals,52.5,51.0,2.94,Near Market
+312,Therapy and assessment professionals,46.63,49.0,-4.84,Near Market
+313,Nursing and allied health professionals,48.0,46.0,4.35,Near Market
+411,Professional occupations in law,74.52,62.5,19.23,Above Market
+412,Professional occupations in education services,43.27,47.84,-9.55,Below Market
+413,Professional occupations in social and community services,36.06,40.0,-9.85,Below Market
+414,Professional occupations in government services,43.94,46.15,-4.79,Near Market
+421,Occupations in front-line public protection services,48.08,50.42,-4.64,Near Market
+422,"Paraprofessional occupations in legal, social, community and education services",27.0,26.92,0.3,Near Market

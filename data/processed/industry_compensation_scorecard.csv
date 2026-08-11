@@ -1,0 +1,20 @@
+industry,nova_scotia_wage,canada_wage,market_gap_pct,market_position
+"Total employees, all industries",29.8,33.65,-11.44,Below Market
+Goods-producing sector,28.5,34.36,-17.05,Below Market
+"Agriculture [111-112, 1100, 1151-1152]",20.0,24.14,-17.15,Below Market
+"Forestry, fishing, mining, quarrying, oil and gas [21, 113-114, 1153, 2100]",25.0,47.0,-46.81,Below Market
+Utilities [22],45.05,53.37,-15.59,Below Market
+Construction [23],28.21,36.0,-21.64,Below Market
+Manufacturing [31-33],28.0,31.0,-9.68,Below Market
+Services-producing sector,30.0,33.33,-9.99,Below Market
+"Wholesale and retail trade [41, 44-45]",22.0,25.0,-12.0,Below Market
+Transportation and warehousing [48-49],28.85,30.46,-5.29,Below Market
+"Finance, insurance, real estate, rental and leasing [52-53]",32.05,38.46,-16.67,Below Market
+"Professional, scientific and technical services [54]",38.46,43.27,-11.12,Below Market
+"Business, building and other support services [55-56]",21.0,25.0,-16.0,Below Market
+Educational services [61],39.42,41.76,-5.6,Below Market
+Health care and social assistance [62],32.0,30.85,3.73,Near Market
+"Information, culture and recreation [51, 71]",29.0,34.19,-15.18,Below Market
+Accommodation and food services [72],18.0,20.0,-10.0,Below Market
+Other services (except public administration) [81],27.0,28.57,-5.5,Below Market
+Public administration [91],41.21,44.71,-7.83,Below Market
