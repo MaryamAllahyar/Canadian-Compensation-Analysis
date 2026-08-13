@@ -53,24 +53,6 @@ Interactive Dashboard (Power BI)
             ▼
 Business Insights
 
-## Repository Structure
-Canadian-Compensation-Analysis
-│
-├── data
-│   ├── raw
-│   └── processed
-│
-├── notebooks
-│
-├── sql
-│
-├── powerbi
-│
-├── outputs
-│
-├── README.md
-└── requirements.txt
-
 ## Executive Dashboard
 ![Executive Dashboard](images/dashboard_overview.png)
 
