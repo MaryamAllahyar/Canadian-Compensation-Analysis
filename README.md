@@ -13,8 +13,8 @@ The project combines Python, SQL, and Power BI to clean, analyze, and visualize 
 - Classify occupations according to compensation priority.
 - Build an interactive executive dashboard to support data-driven decision making.
 
-  ## Dataset
-  Source: Statistics Canada
+## Dataset
+Source: Statistics Canada
 
 Tables used:
 
