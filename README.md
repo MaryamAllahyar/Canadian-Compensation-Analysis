@@ -85,6 +85,6 @@ Business Insights
 
 Maryam Allahyar
 
-GitHub: https://github.com/YOUR_USERNAME
+GitHub: [https://github.com/YOUR_USERNAME](https://github.com/MaryamAllahyar)
 
-LinkedIn: YOUR_LINKEDIN_URL
+LinkedIn: [YOUR_LINKEDIN_URL](https://www.linkedin.com/in/maryam-allahyar-31a39b3ab/)
